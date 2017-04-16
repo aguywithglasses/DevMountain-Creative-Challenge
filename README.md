@@ -5,3 +5,11 @@
 2. Please replicate that email pop up nav bar. Mimic the functionality and design of that nav bar to the best of your abilities.
 3. Please use a DevMountain-like design. Just take a look at the DevMountain site and try to make something that would work.
 4. Send me a github repo with it hosted on github pages as an example.
+
+Tyler,
+
+I investigated General Assembly's site and grabbed the secitons of code they use for this. Generally I'd use a jQuery plug-in but I was interested in learning about how they did it. I've changed some design elements to match DevMountains style.
+
+When the page loads, after about 10 seconds, the sign-up dialog pops. When dismissed, then the bottom email nav bar appears with a functional "Sign Up Now" button and close button. Originally, dismissing the nav bar would then set a cookie so the user wouldn't see it again for a year, but I've disabled this for this challenge so it will work everytime.
+
+This was fun to investigate and learn! I hope it is, and I am, what you're looking for.
