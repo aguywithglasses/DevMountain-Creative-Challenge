@@ -8,8 +8,8 @@
 
 Tyler,
 
-I investigated General Assembly's site and grabbed the secitons of code they use for this. Generally I'd use a jQuery plug-in but I was interested in learning about how they did it. I've changed some design elements to match DevMountains style.
+I investigated General Assembly's site and grabbed the secitons of code they use for this. Generally I'd use a jQuery plug-in but I was interested in learning exactly how they did it. I've changed some design elements to match DevMountain's style.
 
-When the page loads, after about 10 seconds, the sign-up dialog pops. When dismissed, then the bottom email nav bar appears with a functional "Sign Up Now" button and close button. Originally, dismissing the nav bar would then set a cookie so the user wouldn't see it again for a year, but I've disabled this for this challenge so it will work everytime.
+When the page loads, after about 10 seconds, the sign-up dialog pops. When dismissed, then the bottom email nav bar appears with a functional "Sign Up Now" button and close button. This will hide when scrolled to the top or bottom of page. So if you don't see it, just scroll a bit and it will show. Originally, dismissing the nav bar would set a cookie so the user wouldn't see it again for a year, but I've disabled this for this challenge so it's work everytime.
 
 This was fun to investigate and learn! I hope it is, and I am, what you're looking for.
