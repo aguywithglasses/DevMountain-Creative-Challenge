@@ -130,7 +130,7 @@
     white-space: nowrap;
     text-indent: -999px;
     border: none;
-    background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn.png");
+    /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn.png");*/
     background-repeat: no-repeat;
     background-size: contain;
     height: 32px;
@@ -152,7 +152,7 @@
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .new_user_lightbox_prompt_close_button {
-        background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn%402x.png");
+        /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn%402x.png");*/
         background-size: 32px
     }
     .-detached .new_user_lightbox_prompt_close_button {
