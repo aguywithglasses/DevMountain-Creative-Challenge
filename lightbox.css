@@ -152,7 +152,7 @@
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .new_user_lightbox_prompt_close_button {
-        /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn%402x.png");*/
+        background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/prompt-close-btn%402x.png");
         background-size: 32px
     }
     .-detached .new_user_lightbox_prompt_close_button {
@@ -182,7 +182,7 @@
         margin-right: 8px;
         /*margin-right: 0.5rem*/
     }
-    /*.new_user_lightbox_prompt_message:before {
+    .new_user_lightbox_prompt_message:before {
         position: absolute;
         top: 0;
         display: block;
@@ -194,12 +194,12 @@
         height: 1.25rem;
         width: 34px;
         width: 2.125rem
-    }*/
+    }
 }
 
 @media (min-width: 795px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 795px) and (min-resolution: 192dpi) {
     .new_user_lightbox_prompt_message:before {
-        /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon%402x.png");*/
+        background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon%402x.png");
         background-repeat: no-repeat;
         background-size: contain
     }
