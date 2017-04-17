@@ -187,7 +187,7 @@
         top: 0;
         display: block;
         content: '';
-        background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon.png");
+        /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon.png");*/
         left: -48px;
         left: -3rem;
         height: 20px;
@@ -199,7 +199,7 @@
 
 @media (min-width: 795px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 795px) and (min-resolution: 192dpi) {
     .new_user_lightbox_prompt_message:before {
-        background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon%402x.png");
+        /*background-image: url("https://ga-static-assets-s3.global.ssl.fastly.net/navi/new_user_lightbox/subscribe-banner-email-icon%402x.png");*/
         background-repeat: no-repeat;
         background-size: contain
     }
